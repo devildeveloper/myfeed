@@ -11,9 +11,8 @@
 	<script>
 	$(document).on('ready',function(){
 		$.ajax({
-			url:'http://localhost:5000/pokedex',
-			type:'GET',
-			dataType: 'json'
+			url:'http://localhost:3000/pokedex',
+			type:'GET'
 		}).success(function(data){
 			console.log(data)
 			var div=document.createElement('div');

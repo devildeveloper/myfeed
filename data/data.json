@@ -1,0 +1,3589 @@
+{
+  "pokemon":[
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Altaria",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180124/es.pokemon/images/4/4e/Altaria_NB.png",
+      "text": "Altaria"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Amaura",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014184553/es.pokemon/images/thumb/a/a7/Amaura_XY.png/96px-Amaura_XY.png",
+      "text": "Amaura"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Articuno",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919171760/es.pokemon/images/e/ec/Articuno_NB.png",
+      "text": "Articuno"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Aurorus",
+      "img": "http://static3.wikia.nocookie.net/__cb20131103192352/es.pokemon/images/thumb/d/db/Aurorus_XY.png/96px-Aurorus_XY.png",
+      "text": "Aurorus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Avalugg",
+      "img": "http://static4.wikia.nocookie.net/__cb20131102163255/es.pokemon/images/thumb/7/7f/Avalugg_XY.png/96px-Avalugg_XY.png",
+      "text": "Avalugg"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Azelf",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182146/es.pokemon/images/b/bf/Azelf_NB.png",
+      "text": "Azelf"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Azumarill",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172425/es.pokemon/images/7/74/Azumarill_NB.png",
+      "text": "Azumarill"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Azurill",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175603/es.pokemon/images/a/aa/Azurill_NB.png",
+      "text": "Azurill"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bagon",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180539/es.pokemon/images/8/8c/Bagon_NB.png",
+      "text": "Bagon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Beldum",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180553/es.pokemon/images/5/59/Beldum_NB.png",
+      "text": "Beldum"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bergmite",
+      "img": "http://static1.wikia.nocookie.net/__cb20131011185443/es.pokemon/images/thumb/5/5c/Bergmite_XY.png/96px-Bergmite_XY.png",
+      "text": "Bergmite"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Blastoise",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170028/es.pokemon/images/0/0b/Blastoise_NB.png",
+      "text": "Blastoise"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Boldore",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080024/es.pokemon/images/b/b4/Boldore_NB.png",
+      "text": "Boldore"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Carracosta",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919075225/es.pokemon/images/5/52/Carracosta_NB.png",
+      "text": "Carracosta"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chimecho",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180326/es.pokemon/images/2/2c/Chimecho_NB.png",
+      "text": "Chimecho"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chinchou",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172203/es.pokemon/images/9/9b/Chinchou_NB.png",
+      "text": "Chinchou"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Clamperl",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180407/es.pokemon/images/a/ae/Clamperl_NB.png",
+      "text": "Clamperl"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Clauncher",
+      "img": "http://static4.wikia.nocookie.net/__cb20131014184907/es.pokemon/images/thumb/1/17/Clauncher_XY.png/96px-Clauncher_XY.png",
+      "text": "Clauncher"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Clawitzer",
+      "img": "http://static4.wikia.nocookie.net/__cb20131013121004/es.pokemon/images/thumb/b/b0/Clawitzer_XY.png/96px-Clawitzer_XY.png",
+      "text": "Clawitzer"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cobalion",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919082033/es.pokemon/images/e/eb/Cobalion_NB.png",
+      "text": "Cobalion"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cranidos",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181313/es.pokemon/images/5/5d/Cranidos_NB.png",
+      "text": "Cranidos"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Croagunk",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181752/es.pokemon/images/6/63/Croagunk_NB.png",
+      "text": "Croagunk"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Croconaw",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172107/es.pokemon/images/0/09/Croconaw_NB.png",
+      "text": "Croconaw"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cryogonal",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080537/es.pokemon/images/f/f3/Cryogonal_NB.png",
+      "text": " Cryogonal"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cubchoo",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082203/es.pokemon/images/c/c6/Cubchoo_NB.png",
+      "text": "Cubchoo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Deino",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081614/es.pokemon/images/b/b4/Deino_NB.png",
+      "text": "Deino"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dewott",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919074913/es.pokemon/images/1/19/Dewott_NB.png",
+      "text": "Dewott"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dragonair",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171821/es.pokemon/images/1/1e/Dragonair_NB.png",
+      "text": "Dragonair"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dratini",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919171817/es.pokemon/images/3/3f/Dratini_NB.png",
+      "text": "Dratini"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ducklett",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919082008/es.pokemon/images/0/00/Ducklett_NB.png",
+      "text": "Ducklett"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Eelektrik",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082841/es.pokemon/images/3/32/Eelektrik_NB.png",
+      "text": "Eelektrik"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Eelektross",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919082851/es.pokemon/images/f/f0/Eelektross_NB.png",
+      "text": "Eelektross"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Empoleon",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181210/es.pokemon/images/3/3f/Empoleon_NB.png",
+      "text": "Empoleon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Exploud",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175551/es.pokemon/images/c/c6/Exploud_NB.png",
+      "text": "Exploud"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Feraligatr",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172111/es.pokemon/images/7/72/Feraligatr_NB.png",
+      "text": "Feraligatr"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Finneon",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181809/es.pokemon/images/d/d3/Finneon_NB.png",
+      "text": "Finneon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Froakie",
+      "img": "http://static1.wikia.nocookie.net/__cb20131025182451/es.pokemon/images/thumb/6/62/Froakie_XY.png/96px-Froakie_XY.png",
+      "text": "Froakie"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Frogadier",
+      "img": "http://static1.wikia.nocookie.net/__cb20131015024617/es.pokemon/images/thumb/e/e1/Frogadier_XY.png/96px-Frogadier_XY.png",
+      "text": "Frogadier"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gabite",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181624/es.pokemon/images/6/6b/Gabite_NB.png",
+      "text": "Gabite"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Garchomp",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181629/es.pokemon/images/7/76/Garchomp_NB.png",
+      "text": "Garchomp"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gible",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181624/es.pokemon/images/5/5d/Gible_NB.png",
+      "text": "Gible"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gigalith",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919080038/es.pokemon/images/2/2b/Gigalith_NB.png",
+      "text": "Gigalith"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Glaceon",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919182105/es.pokemon/images/0/0d/Glaceon_NB.png",
+      "text": "Glaceon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gloom",
+      "img": "http://static3.wikia.nocookie.net/__cb20111020182042/es.pokemon/images/d/dc/Gloom_NB.png",
+      "text": "Gloom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Golduck",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170426/es.pokemon/images/c/c8/Golduck_NB.png",
+      "text": "Golduck"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Greninja",
+      "img": "http://static3.wikia.nocookie.net/__cb20131123024517/es.pokemon/images/thumb/b/bd/Greninja_XY.png/96px-Greninja_XY.png",
+      "text": "Greninja"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gyarados",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171659/es.pokemon/images/b/b2/Gyarados_NB.png",
+      "text": "Gyarados"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Heracross",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172941/es.pokemon/images/f/f0/Heracross_NB.png",
+      "text": "Heracross"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Horsea",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171324/es.pokemon/images/d/de/Horsea_NB.png",
+      "text": "Horsea"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Huntail",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180525/es.pokemon/images/7/73/Huntail_NB.png",
+      "text": "Huntail"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hydreigon",
+      "img": "http://static1.wikia.nocookie.net/__cb20101213221129/es.pokemon/images/6/63/Hydreigon_NB.png",
+      "text": "Hydreigon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Inkay",
+      "img": "http://static4.wikia.nocookie.net/__cb20131014145037/es.pokemon/images/thumb/c/c8/Inkay_XY.png/96px-Inkay_XY.png",
+      "text": "Inkay"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Jumpluff",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172449/es.pokemon/images/7/78/Jumpluff_NB.png",
+      "text": "Jumpluff"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Karrablast",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081713/es.pokemon/images/8/8c/Karrablast_NB.png",
+      "text": "Karrablast"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kingdra",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919173057/es.pokemon/images/6/6b/Kingdra_NB.png",
+      "text": "Kingdra"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kyogre",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180622/es.pokemon/images/b/bd/Kyogre_NB.png",
+      "text": "Kyogre"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lanturn",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172209/es.pokemon/images/e/e0/Lanturn_NB.png",
+      "text": "Lanturn"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lapras",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171703/es.pokemon/images/b/b8/Lapras_NB.png",
+      "text": "Lapras"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Latios",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180619/es.pokemon/images/1/15/Latios_NB.png",
+      "text": "Latios"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Loudred",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919175546/es.pokemon/images/2/27/Loudred_NB.png",
+      "text": "Loudred"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lucario",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181658/es.pokemon/images/a/ae/Lucario_NB.png",
+      "text": "Lucario"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lumineon",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181834/es.pokemon/images/4/48/Lumineon_NB.png",
+      "text": "Lumineon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Luxio",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181254/es.pokemon/images/0/0d/Luxio_NB.png",
+      "text": "Luxio"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Luxray",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181259/es.pokemon/images/5/58/Luxray_NB.png",
+      "text": "Luxray"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Malamar",
+      "img": "http://static1.wikia.nocookie.net/__cb20131014185043/es.pokemon/images/thumb/6/6c/Malamar_XY.png/96px-Malamar_XY.png",
+      "text": "Malamar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Manaphy",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919182220/es.pokemon/images/2/2b/Manaphy_NB.png",
+      "text": "Manaphy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mantyke",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181840/es.pokemon/images/0/05/Mantyke_NB.png",
+      "text": "Mantyke"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Marill",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172419/es.pokemon/images/b/b8/Marill_NB.png",
+      "text": "Marill"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Marshtomp",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175305/es.pokemon/images/7/79/Marshtomp_NB.png",
+      "text": "Marshtomp"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Masquerain",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175458/es.pokemon/images/8/8a/Masquerain_NB.png",
+      "text": "Masquerain"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Meditite",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175644/es.pokemon/images/b/b6/Meditite_NB.png",
+      "text": "Meditite"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Metagross",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180561/es.pokemon/images/0/0d/Metagross_NB.png",
+      "text": "Metagross"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Metang",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180558/es.pokemon/images/d/d7/Metang_NB.png",
+      "text": "Metang"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mudkip",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175261/es.pokemon/images/0/05/Mudkip_NB.png",
+      "text": "Mudkip"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nidoqueen",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170228/es.pokemon/images/9/97/Nidoqueen_NB.png",
+      "text": "Nidoqueen"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nidoran_hembra",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170219/es.pokemon/images/4/43/Nidoran_hembra_NB.png",
+      "text": "Nidoran♀"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nidorina",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170224/es.pokemon/images/e/ee/Nidorina_NB.png",
+      "text": "Nidorina"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Oddish",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170320/es.pokemon/images/0/03/Oddish_NB.png",
+      "text": "Oddish"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Omanyte",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171735/es.pokemon/images/7/76/Omanyte_NB.png",
+      "text": "Omanyte"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Omastar",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919171740/es.pokemon/images/d/d0/Omastar_NB.png",
+      "text": "Omastar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Oshawott",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919074855/es.pokemon/images/a/a7/Oshawott_NB.png",
+      "text": "Oshawott"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Palpitoad",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080703/es.pokemon/images/4/40/Palpitoad_NB.png",
+      "text": "Palpitoad"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Panpour",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919081517/es.pokemon/images/2/21/Panpour_NB.png",
+      "text": "Panpour"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Phanpy",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173060/es.pokemon/images/c/c7/Phanpy_NB.png",
+      "text": "Phanpy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Phione",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182214/es.pokemon/images/3/30/Phione_NB.png",
+      "text": "Phione"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Piplup",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181159/es.pokemon/images/4/48/Piplup_NB.png",
+      "text": "Piplup"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Poliwag",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170747/es.pokemon/images/6/6b/Poliwag_NB.png",
+      "text": "Poliwag"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Poliwhirl",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170758/es.pokemon/images/b/b3/Poliwhirl_NB.png",
+      "text": "Poliwhirl"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Poliwrath",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170802/es.pokemon/images/c/c5/Poliwrath_NB.png",
+      "text": "Poliwrath"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Prinplup",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181205/es.pokemon/images/7/78/Prinplup_NB.png",
+      "text": "Prinplup"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Quagsire",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172525/es.pokemon/images/3/33/Quagsire_NB.png",
+      "text": "Quagsire"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rampardos",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181317/es.pokemon/images/8/82/Rampardos_NB.png",
+      "text": "Rampardos"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Regice",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180608/es.pokemon/images/c/c3/Regice_NB.png",
+      "text": "Regice"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Riolu",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181652/es.pokemon/images/0/07/Riolu_NB.png",
+      "text": "Riolu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Roggenrola",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080002/es.pokemon/images/5/57/Roggenrola_NB.png",
+      "text": "Roggenrola"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Salamence",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180550/es.pokemon/images/e/e3/Salamence_NB.png",
+      "text": "Salamence"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Samurott",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919074929/es.pokemon/images/1/17/Samurott_NB.png",
+      "text": "Samurott"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sawk",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919075945/es.pokemon/images/0/00/Sawk_NB.png",
+      "text": "Sawk"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Seadra",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171328/es.pokemon/images/9/99/Seadra_NB.png",
+      "text": "Seadra"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sealeo",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180411/es.pokemon/images/7/73/Sealeo_NB.png",
+      "text": "Sealeo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Seismitoad",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080716/es.pokemon/images/0/0d/Seismitoad_NB.png",
+      "text": "Seismitoad"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sharpedo",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180016/es.pokemon/images/e/ec/Sharpedo_NB.png",
+      "text": "Sharpedo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shinx",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181248/es.pokemon/images/b/b6/Shinx_NB.png",
+      "text": "Shinx"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Simipour",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919081530/es.pokemon/images/c/c4/Simipour_NB.png",
+      "text": "Simipour"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Spheal",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180347/es.pokemon/images/a/ae/Spheal_NB.png",
+      "text": "Spheal"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Squirtle",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170017/es.pokemon/images/d/d8/Squirtle_NB.png",
+      "text": "Squirtle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Suicune",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173222/es.pokemon/images/7/70/Suicune_NB.png",
+      "text": "Suicune"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Surskit",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175454/es.pokemon/images/3/36/Surskit_NB.png",
+      "text": "Surskit"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swablu",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180120/es.pokemon/images/d/d2/Swablu_NB.png",
+      "text": "Swablu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swampert",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175309/es.pokemon/images/b/b7/Swampert_NB.png",
+      "text": "Swampert"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swellow",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919175420/es.pokemon/images/3/34/Swellow_NB.png",
+      "text": "Swellow"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swoobat",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919082137/es.pokemon/images/e/e5/Swoobat_NB.png",
+      "text": "Swoobat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Taillow",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919175416/es.pokemon/images/7/70/Taillow_NB.png",
+      "text": "Taillow"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tangela",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171309/es.pokemon/images/b/bc/Tangela_NB.png",
+      "text": "Tangela"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tangrowth",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182036/es.pokemon/images/4/44/Tangrowth_NB.png",
+      "text": "Tangrowth"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tentacool",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170846/es.pokemon/images/3/32/Tentacool_NB.png",
+      "text": "Tentacool"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tentacruel",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170851/es.pokemon/images/f/f4/Tentacruel_NB.png",
+      "text": "Tentacruel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Thundurus",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919082255/es.pokemon/images/b/b0/Thundurus_NB.png",
+      "text": "Thundurus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tirtouga",
+      "img": "http://static4.wikia.nocookie.net/__cb20100928233323/es.pokemon/images/d/d3/Tirtouga_NB.png",
+      "text": "Tirtouga"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Totodile",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172104/es.pokemon/images/2/22/Totodile_NB.png",
+      "text": "Totodile"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Toxicroak",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181757/es.pokemon/images/9/9e/Toxicroak_NB.png",
+      "text": "Toxicroak"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tympole",
+      "img": "http://static2.wikia.nocookie.net/__cb20100928233232/es.pokemon/images/b/b9/Tympole_NB.png",
+      "text": "Tympole"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vaporeon",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171719/es.pokemon/images/0/04/Vaporeon_NB.png",
+      "text": "Vaporeon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wailmer",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180020/es.pokemon/images/9/95/Wailmer_NB.png",
+      "text": "Wailmer"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wailord",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180025/es.pokemon/images/8/85/Wailord_NB.png",
+      "text": "Wailord"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Walrein",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180361/es.pokemon/images/6/61/Walrein_NB.png",
+      "text": "Walrein"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wartortle",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170022/es.pokemon/images/4/43/Wartortle_NB.png",
+      "text": "Wartortle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Whiscash",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180160/es.pokemon/images/5/59/Whiscash_NB.png",
+      "text": "Whiscash"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wobbuffet",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172848/es.pokemon/images/0/09/Wobbuffet_NB.png",
+      "text": "Wobbuffet"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Woobat",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082126/es.pokemon/images/e/ec/Woobat_NB.png",
+      "text": "Woobat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wooper",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172521/es.pokemon/images/a/a2/Wooper_NB.png",
+      "text": "Wooper"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wynaut",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180334/es.pokemon/images/3/3d/Wynaut_NB.png",
+      "text": "Wynaut"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Xerneas",
+      "img": "http://static3.wikia.nocookie.net/__cb20131015032406/es.pokemon/images/thumb/9/92/Xerneas_XY.png/96px-Xerneas_XY.png",
+      "text": "Xerneas"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zweilous",
+      "img": "http://static3.wikia.nocookie.net/__cb20101120131338/es.pokemon/images/6/65/Zweilous_NB.png",
+      "text": "Zweilous"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ampharos",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172407/es.pokemon/images/7/74/Ampharos_NB.png",
+      "text": "Ampharos"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Archen",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919074627/es.pokemon/images/6/61/Archen_NB.png",
+      "text": "Archen"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Archeops",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919074653/es.pokemon/images/8/8b/Archeops_NB.png",
+      "text": "Archeops"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Beautifly",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175339/es.pokemon/images/f/f5/Beautifly_NB.png",
+      "text": "Beautifly"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Beedrill",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170056/es.pokemon/images/0/0f/Beedrill_NB.png",
+      "text": "Beedrill"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chingling",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181521/es.pokemon/images/9/9c/Chingling_NB.png",
+      "text": "Chingling"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cofagrigus",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919080307/es.pokemon/images/7/7a/Cofagrigus_NB.png",
+      "text": "Cofagrigus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Combee",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181354/es.pokemon/images/0/0d/Combee_NB.png",
+      "text": "Combee"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cresselia",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182210/es.pokemon/images/5/58/Cresselia_NB.png",
+      "text": "Cresselia"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cyndaquil",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172051/es.pokemon/images/6/6f/Cyndaquil_NB.png",
+      "text": "Cyndaquil"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dedenne",
+      "img": "http://static2.wikia.nocookie.net/__cb20131018225651/es.pokemon/images/thumb/a/a5/Dedenne_XY.png/96px-Dedenne_XY.png",
+      "text": "Dedenne"
+    },
+    {
+      "url": "http://es.pokemon.wikia.comhttp://static3.wikia.nocookie.net/__cb20130928120357/es.pokemon/images/1/1e/Deerling_NB_formas.gif",
+      "img": "http://static3.wikia.nocookie.net/__cb20130928120357/es.pokemon/images/1/1e/Deerling_NB_formas.gif",
+      "text": "Deerling"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Drowzee",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171052/es.pokemon/images/8/84/Drowzee_NB.png",
+      "text": "Drowzee"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dunsparce",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172904/es.pokemon/images/f/f9/Dunsparce_NB.png",
+      "text": "Dunsparce"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Electabuzz",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171637/es.pokemon/images/f/f2/Electabuzz_NB.png",
+      "text": "Electabuzz"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Electivire",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919182042/es.pokemon/images/b/b4/Electivire_NB.png",
+      "text": "Electivire"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Elekid",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173145/es.pokemon/images/8/83/Elekid_NB.png",
+      "text": "Elekid"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Exeggutor",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171126/es.pokemon/images/4/48/Exeggutor_NB.png",
+      "text": "Exeggutor"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Galvantula",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919123135/es.pokemon/images/3/3c/Galvantula_NB.png",
+      "text": "Galvantula"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Girafarig",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172852/es.pokemon/images/0/0d/Girafarig_NB.png",
+      "text": "Girafarig"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Haxorus",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919081859/es.pokemon/images/c/ca/Haxorus_NB.png",
+      "text": "Haxorus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Heliolisk",
+      "img": "http://static2.wikia.nocookie.net/__cb20131015141330/es.pokemon/images/thumb/d/d4/Heliolisk_XY.png/96px-Heliolisk_XY.png",
+      "text": "Heliolisk"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Helioptile",
+      "img": "http://static3.wikia.nocookie.net/__cb20131014145241/es.pokemon/images/thumb/7/7b/Helioptile_XY.png/96px-Helioptile_XY.png",
+      "text": "Helioptile"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hypno",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171057/es.pokemon/images/9/97/Hypno_NB.png",
+      "text": "Hypno"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Jirachi",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180633/es.pokemon/images/1/14/Jirachi_NB.png",
+      "text": "Jirachi"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Jolteon",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171722/es.pokemon/images/d/da/Jolteon_NB.png",
+      "text": "Jolteon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Joltik",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919075506/es.pokemon/images/6/69/Joltik_NB.png",
+      "text": "Joltik"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kakuna",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170051/es.pokemon/images/8/83/Kakuna_NB.png",
+      "text": "Kakuna"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Keldeo",
+      "img": "http://static3.wikia.nocookie.net/__cb20111110003958/es.pokemon/images/7/7f/Keldeo_NB.png",
+      "text": "Keldeo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Leavanny",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919081454/es.pokemon/images/2/23/Leavanny_NB.png",
+      "text": "Leavanny"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lunatone",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180145/es.pokemon/images/6/6b/Lunatone_NB.png",
+      "text": "Lunatone"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Makuhita",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175556/es.pokemon/images/5/52/Makuhita_NB.png",
+      "text": "Makuhita"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Manectric",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175932/es.pokemon/images/3/34/Manectric_NB.png",
+      "text": "Manectric"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Meowth",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170414/es.pokemon/images/4/49/Meowth_NB.png",
+      "text": "Meowth"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mienfoo",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919082049/es.pokemon/images/d/d6/Mienfoo_NB.png",
+      "text": "Mienfoo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Minun",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175942/es.pokemon/images/2/22/Minun_NB.png",
+      "text": "Minun"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Moltres",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171809/es.pokemon/images/7/76/Moltres_NB.png",
+      "text": "Moltres"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mothim",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181341/es.pokemon/images/e/e8/Mothim_NB.png",
+      "text": "Mothim"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ninetales",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170259/es.pokemon/images/1/13/Ninetales_NB.png",
+      "text": "Ninetales"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ninjask",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919175532/es.pokemon/images/d/d5/Ninjask_NB.png",
+      "text": "Ninjask"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Numel",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180030/es.pokemon/images/3/36/Numel_NB.png",
+      "text": "Numel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pelipper",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919175430/es.pokemon/images/9/91/Pelipper_NB.png",
+      "text": "Pelipper"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Persian",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170418/es.pokemon/images/4/43/Persian_NB.png",
+      "text": "Persian"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pichu",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172212/es.pokemon/images/0/00/Pichu_NB.png",
+      "text": "Pichu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pikachu",
+      "img": "http://static3.wikia.nocookie.net/__cb20131022230317/es.pokemon/images/4/4e/Pikachu_NB.png",
+      "text": "Pikachu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Plusle",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175938/es.pokemon/images/f/ff/Plusle_NB.png",
+      "text": "Plusle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ponyta",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170909/es.pokemon/images/1/1d/Ponyta_NB.png",
+      "text": "Ponyta"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Psyduck",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170424/es.pokemon/images/2/28/Psyduck_NB.png",
+      "text": "Psyduck"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Quilava",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172055/es.pokemon/images/e/ef/Quilava_NB.png",
+      "text": "Quilava"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Raichu",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170150/es.pokemon/images/a/a8/Raichu_NB.png",
+      "text": "Raichu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Raikou",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173213/es.pokemon/images/2/2b/Raikou_NB.png",
+      "text": "Raikou"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rapidash",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170913/es.pokemon/images/7/7b/Rapidash_NB.png",
+      "text": "Rapidash"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sandshrew",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170156/es.pokemon/images/1/1c/Sandshrew_NB.png",
+      "text": "Sandshrew"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sandslash",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170202/es.pokemon/images/9/97/Sandslash_NB.png",
+      "text": "Sandslash"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Scraggy",
+      "img": "http://static2.wikia.nocookie.net/__cb20101004170023/es.pokemon/images/7/77/Scraggy_NB.png",
+      "text": "Scraggy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sewaddle",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081427/es.pokemon/images/3/39/Sewaddle_NB.png",
+      "text": "Sewaddle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shuckle",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172937/es.pokemon/images/4/45/Shuckle_NB.png",
+      "text": "Shuckle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sunflora",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172511/es.pokemon/images/e/ea/Sunflora_NB.png",
+      "text": "Sunflora"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sunkern",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172505/es.pokemon/images/3/3f/Sunkern_NB.png",
+      "text": "Sunkern"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Typhlosion",
+      "img": "http://static2.wikia.nocookie.net/__cb20101104204557/es.pokemon/images/8/80/Typhlosion_NB.png",
+      "text": "Typhlosion"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Uxie",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182139/es.pokemon/images/4/48/Uxie_NB.png",
+      "text": "Uxie"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vespiquen",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181359/es.pokemon/images/6/61/Vespiquen_NB.png",
+      "text": "Vespiquen"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Victini",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919124921/es.pokemon/images/f/ff/Victini_NB.png",
+      "text": "Victini"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zapdos",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171804/es.pokemon/images/9/9e/Zapdos_NB.png",
+      "text": "Zapdos"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Abomasnow",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181849/es.pokemon/images/3/39/Abomasnow_NB.png",
+      "text": "Abomasnow"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Absol",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180329/es.pokemon/images/1/18/Absol_NB.png",
+      "text": "Absol"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Beartic",
+      "img": "http://static2.wikia.nocookie.net/__cb20101018192219/es.pokemon/images/6/68/Beartic_NB.png",
+      "text": "Beartic"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Butterfree",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170041/es.pokemon/images/d/d8/Butterfree_NB.png",
+      "text": "Butterfree"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Castform",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180249/es.pokemon/images/7/76/Castform_NB.png",
+      "text": "Castform"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dewgong",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170950/es.pokemon/images/2/25/Dewgong_NB.png",
+      "text": "Dewgong"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dialga",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919182151/es.pokemon/images/4/47/Dialga_NB.png",
+      "text": "Dialga"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Emolga",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080417/es.pokemon/images/7/78/Emolga_NB.png",
+      "text": "Emolga"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Flab%C3%A9b%C3%A9",
+      "img": "http://static3.wikia.nocookie.net/__cb20131014143144/es.pokemon/images/thumb/f/ff/Flab%C3%A9b%C3%A9_XY.png/96px-Flab%C3%A9b%C3%A9_XY.png",
+      "text": "Flabébé"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Floette",
+      "img": "http://static2.wikia.nocookie.net/__cb20131013111538/es.pokemon/images/thumb/9/90/Floette_XY.png/96px-Floette_XY.png",
+      "text": "Floette"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Florges",
+      "img": "http://static4.wikia.nocookie.net/__cb20131011185440/es.pokemon/images/thumb/0/03/Florges_XY.png/96px-Florges_XY.png",
+      "text": "Florges"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Foongus",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919082559/es.pokemon/images/f/f7/Foongus_NB.png",
+      "text": "Foongus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Frillish",
+      "img": "http://static2.wikia.nocookie.net/__cb20101027163644/es.pokemon/images/2/23/Frillish_NB.png",
+      "text": "Frillish2"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Froslass",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919182132/es.pokemon/images/1/14/Froslass_NB.png",
+      "text": "Froslass"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Furfrou",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014143532/es.pokemon/images/thumb/9/9b/Furfrou_XY.png/96px-Furfrou_XY.png",
+      "text": "Furfrou"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gallade",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182121/es.pokemon/images/3/3c/Gallade_NB.png",
+      "text": "Gallade"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gardevoir",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175450/es.pokemon/images/3/37/Gardevoir_NB.png",
+      "text": "Gardevoir"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Jellicent",
+      "img": "http://static1.wikia.nocookie.net/__cb20101018162847/es.pokemon/images/7/7a/Jellicent_NB.png",
+      "text": "Jellicent2"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kirlia",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175444/es.pokemon/images/c/c2/Kirlia_NB.png",
+      "text": "Kirlia"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Larvesta",
+      "img": "http://static2.wikia.nocookie.net/__cb20101026194940/es.pokemon/images/e/ea/Larvesta_NB.png",
+      "text": "Larvesta"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Linoone",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175326/es.pokemon/images/4/4f/Linoone_NB.png",
+      "text": "Linoone"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Litwick",
+      "img": "http://static4.wikia.nocookie.net/__cb20101018155741/es.pokemon/images/2/24/Litwick_NB.png",
+      "text": "Litwick"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lugia",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919173240/es.pokemon/images/0/00/Lugia_NB.png",
+      "text": "Lugia"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mareep",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172249/es.pokemon/images/e/e3/Mareep_NB.png",
+      "text": "Mareep"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Meloetta",
+      "img": "http://static1.wikia.nocookie.net/__cb20110310202923/es.pokemon/images/8/8b/Meloetta_NB.png",
+      "text": "Meloetta"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Meowstic",
+      "img": "http://static2.wikia.nocookie.net/__cb20131015032426/es.pokemon/images/thumb/c/c5/Meowstic_XY.png/96px-Meowstic_XY.png",
+      "text": "Meowstic"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pachirisu",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181403/es.pokemon/images/a/ae/Pachirisu_NB.png",
+      "text": "Pachirisu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pancham",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014185211/es.pokemon/images/thumb/2/23/Pancham_XY.png/96px-Pancham_XY.png",
+      "text": "Pancham"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pangoro",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014184233/es.pokemon/images/thumb/b/b6/Pangoro_XY.png/96px-Pangoro_XY.png",
+      "text": "Pangoro"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ralts",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175441/es.pokemon/images/a/ac/Ralts_NB.png",
+      "text": "Ralts"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Regigigas",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919182202/es.pokemon/images/6/62/Regigigas_NB.png",
+      "text": "Regigigas"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Reshiram",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919123144/es.pokemon/images/e/e8/Reshiram_NB.png",
+      "text": "Reshiram"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rufflet",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919082961/es.pokemon/images/3/31/Rufflet_NB.png",
+      "text": "Rufflet"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Seel",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170946/es.pokemon/images/7/75/Seel_NB.png",
+      "text": "Seel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shelgon",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180542/es.pokemon/images/5/5a/Shelgon_NB.png",
+      "text": "Shelgon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Silcoon",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175334/es.pokemon/images/6/6e/Silcoon_NB.png",
+      "text": "Silcoon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Slurpuff",
+      "img": "http://static4.wikia.nocookie.net/__cb20131014184037/es.pokemon/images/thumb/2/20/Slurpuff_XY.png/96px-Slurpuff_XY.png",
+      "text": "Slurpuff"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Smeargle",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919173124/es.pokemon/images/9/9c/Smeargle_NB.png",
+      "text": "Smeargle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Snover",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181844/es.pokemon/images/0/0c/Snover_NB.png",
+      "text": "Snover"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swanna",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919082021/es.pokemon/images/d/da/Swanna_NB.png",
+      "text": "Swanna"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swirlix",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014144450/es.pokemon/images/thumb/3/37/Swirlix_XY.png/96px-Swirlix_XY.png",
+      "text": "Swirlix"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Togekiss",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919182052/es.pokemon/images/a/a7/Togekiss_NB.png",
+      "text": "Togekiss"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Togepi",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172226/es.pokemon/images/2/2e/Togepi_NB.png",
+      "text": "Togepi"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Togetic",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172232/es.pokemon/images/5/59/Togetic_NB.png",
+      "text": "Togetic"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tynamo",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082830/es.pokemon/images/e/e0/Tynamo_NB.png",
+      "text": "Tynamo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vanillish",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919075355/es.pokemon/images/8/81/Vanillish_NB.png",
+      "text": "Vanillish"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vanillite",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919075335/es.pokemon/images/4/45/Vanillite_NB.png",
+      "text": "Vanillite"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vanilluxe",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919075409/es.pokemon/images/2/2b/Vanilluxe_NB.png",
+      "text": "Vanilluxe"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vigoroth",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175520/es.pokemon/images/b/bd/Vigoroth_NB.png",
+      "text": "Vigoroth"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Volcarona",
+      "img": "http://static4.wikia.nocookie.net/__cb20101030075610/es.pokemon/images/6/6d/Volcarona_NB.png",
+      "text": "Volcarona"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wingull",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175425/es.pokemon/images/f/f5/Wingull_NB.png",
+      "text": "Wingull"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zangoose",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180130/es.pokemon/images/3/3f/Zangoose_NB.png",
+      "text": "Zangoose"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Aggron",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175638/es.pokemon/images/f/f5/Aggron_NB.png",
+      "text": "Aggron"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Amoonguss",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919082610/es.pokemon/images/5/5f/Amoonguss_NB.png",
+      "text": "Amoonguss"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Anorith",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180230/es.pokemon/images/5/5f/Anorith_NB.png",
+      "text": "Anorith"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Arceus",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919182237/es.pokemon/images/d/d2/Arceus_NB.png",
+      "text": "Arceus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Armaldo",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180233/es.pokemon/images/7/72/Armaldo_NB.png",
+      "text": "Armaldo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Aron",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175628/es.pokemon/images/2/2a/Aron_NB.png",
+      "text": "Aron"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Barboach",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180152/es.pokemon/images/b/be/Barboach_NB.png",
+      "text": "Barboach"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bastiodon",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181325/es.pokemon/images/f/f7/Bastiodon_NB.png",
+      "text": "Bastiodon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.comhttp://static4.wikia.nocookie.net/__cb20080930174026/es.pokemon/images/e/e0/Burmy_DP.gif",
+      "img": "http://static4.wikia.nocookie.net/__cb20080930174026/es.pokemon/images/e/e0/Burmy_DP.gif",
+      "text": "Burmy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Carbink",
+      "img": "http://static1.wikia.nocookie.net/__cb20131011170619/es.pokemon/images/thumb/2/2b/Carbink_XY.png/96px-Carbink_XY.png",
+      "text": "Carbink"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cinccino",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919075648/es.pokemon/images/c/c6/Cinccino_NB.png",
+      "text": "Cinccino"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Conkeldurr",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080354/es.pokemon/images/4/41/Conkeldurr_NB.png",
+      "text": "Conkeldurr"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Donphan",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919173106/es.pokemon/images/0/0a/Donphan_NB.png",
+      "text": "Donphan"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Drilbur",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080432/es.pokemon/images/7/7e/Drilbur_NB.png",
+      "text": "Drilbur"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Durant",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080822/es.pokemon/images/d/d1/Durant_NB.png",
+      "text": "Durant"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Elgyem",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082812/es.pokemon/images/8/82/Elgyem_NB.png",
+      "text": "Elgyem"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Escavalier",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919081738/es.pokemon/images/9/92/Escavalier_NB.png",
+      "text": "Escavalier"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Espurr",
+      "img": "http://static2.wikia.nocookie.net/__cb20131011170616/es.pokemon/images/thumb/d/df/Espurr_XY.png/96px-Espurr_XY.png",
+      "text": "Espurr"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Excadrill",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080447/es.pokemon/images/d/d0/Excadrill_NB.png",
+      "text": "Excadrill"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ferroseed",
+      "img": "http://static4.wikia.nocookie.net/__cb20101012215320/es.pokemon/images/b/b5/Ferroseed_NB.png",
+      "text": "Ferroseed"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ferrothorn",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080251/es.pokemon/images/7/79/Ferrothorn_NB.png",
+      "text": "Ferrothorn"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Glalie",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180343/es.pokemon/images/2/20/Glalie_NB.png",
+      "text": "Glalie"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Glameow",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181513/es.pokemon/images/7/77/Glameow_NB.png",
+      "text": "Glameow"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gurdurr",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919080339/es.pokemon/images/e/e6/Gurdurr_NB.png",
+      "text": "Gurdurr"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Klang",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919081041/es.pokemon/images/2/23/Klang_NB.png",
+      "text": "Klang"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Klefki",
+      "img": "http://static3.wikia.nocookie.net/__cb20131015033440/es.pokemon/images/thumb/9/96/Klefki_XY.png/96px-Klefki_XY.png",
+      "text": "Klefki"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Klink",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919081028/es.pokemon/images/0/0c/Klink_NB.png",
+      "text": "Klink"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Klinklang",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919081055/es.pokemon/images/0/0a/Klinklang_NB.png",
+      "text": "Klinklang"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kyurem",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919082230/es.pokemon/images/1/1d/Kyurem_NB.png",
+      "text": "Kyurem"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lairon",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175632/es.pokemon/images/9/9a/Lairon_NB.png",
+      "text": "Lairon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Machamp",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170828/es.pokemon/images/9/93/Machamp_NB.png",
+      "text": "Machamp"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Machoke",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170822/es.pokemon/images/b/bb/Machoke_NB.png",
+      "text": "Machoke"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Machop",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170818/es.pokemon/images/5/5f/Machop_NB.png",
+      "text": "Machop"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Magnemite",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170926/es.pokemon/images/b/b1/Magnemite_NB.png",
+      "text": "Magnemite"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Magneton",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170929/es.pokemon/images/a/a3/Magneton_NB.png",
+      "text": "Magneton"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Magnezone",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919182023/es.pokemon/images/a/a1/Magnezone_NB.png",
+      "text": "Magnezone"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mightyena",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919175316/es.pokemon/images/e/e9/Mightyena_NB.png",
+      "text": "Mightyena"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Minccino",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919075634/es.pokemon/images/c/c3/Minccino_NB.png",
+      "text": "Minccino"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nincada",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175528/es.pokemon/images/4/4f/Nincada_NB.png",
+      "text": "Nincada"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nosepass",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175608/es.pokemon/images/9/9a/Nosepass_NB.png",
+      "text": "Nosepass"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Onix",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171048/es.pokemon/images/e/e9/Onix_NB.png",
+      "text": "Onix"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pidove",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919081337/es.pokemon/images/2/23/Pidove_NB.png",
+      "text": "Pidove"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pineco",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172856/es.pokemon/images/2/23/Pineco_NB.png",
+      "text": "Pineco"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Poochyena",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175314/es.pokemon/images/a/a4/Poochyena_NB.png",
+      "text": "Poochyena"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Probopass",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919182124/es.pokemon/images/2/27/Probopass_NB.png",
+      "text": "Probopass"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pupitar",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919173230/es.pokemon/images/5/52/Pupitar_NB.png",
+      "text": "Pupitar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Purugly",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181517/es.pokemon/images/5/55/Purugly_NB.png",
+      "text": "Purugly"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Qwilfish",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172925/es.pokemon/images/a/a7/Qwilfish_NB.png",
+      "text": "Qwilfish"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Registeel",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180612/es.pokemon/images/1/11/Registeel_NB.png",
+      "text": "Registeel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Relicanth",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180532/es.pokemon/images/4/41/Relicanth_NB.png",
+      "text": "Relicanth"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Remoraid",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173022/es.pokemon/images/8/8b/Remoraid_NB.png",
+      "text": "Remoraid"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rhydon",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171249/es.pokemon/images/f/f7/Rhydon_NB.png",
+      "text": "Rhydon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rhyhorn",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171225/es.pokemon/images/3/3c/Rhyhorn_NB.png",
+      "text": "Rhyhorn"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rhyperior",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919182033/es.pokemon/images/2/2a/Rhyperior_NB.png",
+      "text": "Rhyperior"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shieldon",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181322/es.pokemon/images/2/2c/Shieldon_NB.png",
+      "text": "Shieldon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Skarmory",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173038/es.pokemon/images/3/31/Skarmory_NB.png",
+      "text": "Skarmory"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Snorunt",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180338/es.pokemon/images/c/cc/Snorunt_NB.png",
+      "text": "Snorunt"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Steelix",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172911/es.pokemon/images/c/c1/Steelix_NB.png",
+      "text": "Steelix"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Stoutland",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081248/es.pokemon/images/a/a7/Stoutland_NB.png",
+      "text": "Stoutland"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Terrakion",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919082916/es.pokemon/images/e/ec/Terrakion_NB.png",
+      "text": "Terrakion"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Timburr",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080324/es.pokemon/images/6/6b/Timburr_NB.png",
+      "text": "Timburr"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tranquill",
+      "img": "http://static4.wikia.nocookie.net/__cb20101020165860/es.pokemon/images/6/63/Tranquill_NB.png",
+      "text": "Tranquill"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Unfezant",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919081405/es.pokemon/images/e/ee/Unfezant_NB.png",
+      "text": "Unfezant"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Volbeat",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175946/es.pokemon/images/1/1e/Volbeat_NB.png",
+      "text": "Volbeat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Whirlipede",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080606/es.pokemon/images/1/16/Whirlipede_NB.png",
+      "text": "Whirlipede"
+    },
+    {
+      "url": "http://es.pokemon.wikia.comhttp://static1.wikia.nocookie.net/__cb20080930173840/es.pokemon/images/3/3b/Wormadam_DP.gif",
+      "img": "http://static1.wikia.nocookie.net/__cb20080930173840/es.pokemon/images/3/3b/Wormadam_DP.gif",
+      "text": "Wormadam"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zoroark",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919083152/es.pokemon/images/d/d3/Zoroark_NB.png",
+      "text": "Zoroark"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zorua",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919083141/es.pokemon/images/d/dc/Zorua_NB.png",
+      "text": "Zorua"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Abra",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170806/es.pokemon/images/d/dc/Abra_NB.png",
+      "text": "Abra"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Aegislash",
+      "img": "http://static1.wikia.nocookie.net/__cb20131011170617/es.pokemon/images/thumb/b/b7/Aegislash_XY.png/96px-Aegislash_XY.png",
+      "text": "Aegislash"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Alakazam",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170814/es.pokemon/images/a/aa/Alakazam_NB.png",
+      "text": "Alakazam"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Arcanine",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170455/es.pokemon/images/7/7c/Arcanine_NB.png",
+      "text": "Arcanine"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Baltoy",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180211/es.pokemon/images/2/29/Baltoy_NB.png",
+      "text": "Baltoy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Barbaracle",
+      "img": "http://static1.wikia.nocookie.net/__cb20131117155546/es.pokemon/images/thumb/b/bc/Barbaracle_XY.png/96px-Barbaracle_XY.png",
+      "text": "Barbaracle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Beheeyem",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082742/es.pokemon/images/e/e5/Beheeyem_NB.png",
+      "text": "Beheeyem"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bibarel",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181232/es.pokemon/images/5/5f/Bibarel_NB.png",
+      "text": "Bibarel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bidoof",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181228/es.pokemon/images/2/25/Bidoof_NB.png",
+      "text": "Bidoof"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Binacle",
+      "img": "http://static4.wikia.nocookie.net/__cb20131015140820/es.pokemon/images/thumb/8/8e/Binacle_XY.png/96px-Binacle_XY.png",
+      "text": "Binacle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bonsly",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181548/es.pokemon/images/c/c3/Bonsly_NB.png",
+      "text": "Bonsly"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bouffalant",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919075317/es.pokemon/images/2/22/Bouffalant_NB.png",
+      "text": "Bouffalant"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Buizel",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181409/es.pokemon/images/0/0a/Buizel_NB.png",
+      "text": "Buizel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Buneary",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181452/es.pokemon/images/e/e9/Buneary_NB.png",
+      "text": "Buneary"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bunnelby",
+      "img": "http://static2.wikia.nocookie.net/__cb20131013214156/es.pokemon/images/thumb/6/64/Bunnelby_XY.png/96px-Bunnelby_XY.png",
+      "text": "Bunnelby"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chimchar",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181144/es.pokemon/images/c/c2/Chimchar_NB.png",
+      "text": "Chimchar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cubone",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171129/es.pokemon/images/e/e9/Cubone_NB.png",
+      "text": "Cubone"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Diggersby",
+      "img": "http://static1.wikia.nocookie.net/__cb20131103192352/es.pokemon/images/thumb/f/f1/Diggersby_XY.png/96px-Diggersby_XY.png",
+      "text": "Diggersby"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Diglett",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170404/es.pokemon/images/d/d6/Diglett_NB.png",
+      "text": "Diglett"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dodrio",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170942/es.pokemon/images/3/3a/Dodrio_NB.png",
+      "text": "Dodrio"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Doduo",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170937/es.pokemon/images/0/0a/Doduo_NB.png",
+      "text": "Doduo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Doublade",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014143708/es.pokemon/images/thumb/7/76/Doublade_XY.png/96px-Doublade_XY.png",
+      "text": "Doublade"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dragalge",
+      "img": "http://static3.wikia.nocookie.net/__cb20131128162650/es.pokemon/images/thumb/6/68/Dragalge_XY.png/96px-Dragalge_XY.png",
+      "text": "Dragalge"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dragonite",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171825/es.pokemon/images/0/0f/Dragonite_NB.png",
+      "text": "Dragonite"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dugtrio",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170409/es.pokemon/images/1/1d/Dugtrio_NB.png",
+      "text": "Dugtrio"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Eevee",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171714/es.pokemon/images/d/d8/Eevee_NB.png",
+      "text": "Eevee"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Entei",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919173218/es.pokemon/images/8/87/Entei_NB.png",
+      "text": "Entei"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Farfetch%27d",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170933/es.pokemon/images/2/20/Farfetch%27d_NB.png",
+      "text": "Farfetch'd"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Fearow",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170129/es.pokemon/images/6/6d/Fearow_NB.png",
+      "text": "Fearow"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Feebas",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180238/es.pokemon/images/3/35/Feebas_NB.png",
+      "text": "Feebas"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Floatzel",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181414/es.pokemon/images/6/65/Floatzel_NB.png",
+      "text": "Floatzel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Furret",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172125/es.pokemon/images/d/d0/Furret_NB.png",
+      "text": "Furret"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Geodude",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170854/es.pokemon/images/3/3f/Geodude_NB.png",
+      "text": "Geodude"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gogoat",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014185319/es.pokemon/images/thumb/c/cc/Gogoat_XY.png/96px-Gogoat_XY.png",
+      "text": "Gogoat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Golem",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170905/es.pokemon/images/0/08/Golem_NB.png",
+      "text": "Golem"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gourgeist",
+      "img": "http://static2.wikia.nocookie.net/__cb20131015031814/es.pokemon/images/thumb/e/e1/Gourgeist_XY.png/96px-Gourgeist_XY.png",
+      "text": "Gourgeist"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Graveler",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170859/es.pokemon/images/3/3e/Graveler_NB.png",
+      "text": "Graveler"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Growlithe",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170449/es.pokemon/images/6/6f/Growlithe_NB.png",
+      "text": "Growlithe"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hariyama",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175560/es.pokemon/images/e/e1/Hariyama_NB.png",
+      "text": "Hariyama"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Herdier",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919081221/es.pokemon/images/3/31/Herdier_NB.png",
+      "text": "Herdier"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hippopotas",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181704/es.pokemon/images/8/81/Hippopotas_NB.png",
+      "text": "Hippopotas"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hippowdon",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181710/es.pokemon/images/5/57/Hippowdon_NB.png",
+      "text": "Hippowdon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hitmonchan",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171207/es.pokemon/images/0/01/Hitmonchan_NB.png",
+      "text": "Hitmonchan"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hitmonlee",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171138/es.pokemon/images/2/23/Hitmonlee_NB.png",
+      "text": "Hitmonlee"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hitmontop",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173136/es.pokemon/images/9/97/Hitmontop_NB.png",
+      "text": "Hitmontop"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Honedge",
+      "img": "http://static1.wikia.nocookie.net/__cb20131014143641/es.pokemon/images/thumb/7/77/Honedge_XY.png/96px-Honedge_XY.png",
+      "text": "Honedge"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hoothoot",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172130/es.pokemon/images/e/ea/Hoothoot_NB.png",
+      "text": "Hoothoot"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Infernape",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181154/es.pokemon/images/d/d2/Infernape_NB.png",
+      "text": "Infernape"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kabuto",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171744/es.pokemon/images/6/6b/Kabuto_NB.png",
+      "text": "Kabuto"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kabutops",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919171748/es.pokemon/images/f/f8/Kabutops_NB.png",
+      "text": "Kabutops"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kadabra",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170809/es.pokemon/images/1/14/Kadabra_NB.png",
+      "text": "Kadabra"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kangaskhan",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171315/es.pokemon/images/b/be/Kangaskhan_NB.png",
+      "text": "Kangaskhan"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Krokorok",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082432/es.pokemon/images/2/2b/Krokorok_NB.png",
+      "text": "Krokorok"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Landorus",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919192333/es.pokemon/images/b/b9/Landorus_NB.png",
+      "text": "Landorus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lillipup",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919081235/es.pokemon/images/c/c1/Lillipup_NB.png",
+      "text": "Lillipup"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Litleo",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014185646/es.pokemon/images/thumb/1/1f/Litleo_XY.png/96px-Litleo_XY.png",
+      "text": "Litleo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lopunny",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181458/es.pokemon/images/4/44/Lopunny_NB.png",
+      "text": "Lopunny"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mamoswine",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919182113/es.pokemon/images/0/06/Mamoswine_NB.png",
+      "text": "Mamoswine"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mandibuzz",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919082943/es.pokemon/images/2/2f/Mandibuzz_NB.png",
+      "text": "Mandibuzz"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mankey",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170432/es.pokemon/images/5/5c/Mankey_NB.png",
+      "text": "Mankey"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Marowak",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171135/es.pokemon/images/f/fe/Marowak_NB.png",
+      "text": "Marowak"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Monferno",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181150/es.pokemon/images/3/31/Monferno_NB.png",
+      "text": "Monferno"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Noctowl",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172133/es.pokemon/images/c/c2/Noctowl_NB.png",
+      "text": "Noctowl"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nuzleaf",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175408/es.pokemon/images/7/73/Nuzleaf_NB.png",
+      "text": "Nuzleaf"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Patrat",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082502/es.pokemon/images/a/a2/Patrat_NB.png",
+      "text": "Patrat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Phantump",
+      "img": "http://static3.wikia.nocookie.net/__cb20131011185443/es.pokemon/images/thumb/e/e3/Phantump_XY.png/96px-Phantump_XY.png",
+      "text": "Phantump"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pidgeot",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170109/es.pokemon/images/5/55/Pidgeot_NB.png",
+      "text": "Pidgeot"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pidgeotto",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170105/es.pokemon/images/3/3f/Pidgeotto_NB.png",
+      "text": "Pidgeotto"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pidgey",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170061/es.pokemon/images/6/6a/Pidgey_NB.png",
+      "text": "Pidgey"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Piloswine",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173014/es.pokemon/images/d/dc/Piloswine_NB.png",
+      "text": "Piloswine"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pinsir",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171645/es.pokemon/images/d/dc/Pinsir_NB.png",
+      "text": "Pinsir"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Primeape",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170444/es.pokemon/images/5/52/Primeape_NB.png",
+      "text": "Primeape"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pumpkaboo",
+      "img": "http://static3.wikia.nocookie.net/__cb20131015030812/es.pokemon/images/thumb/e/e9/Pumpkaboo_XY.png/96px-Pumpkaboo_XY.png",
+      "text": "Pumpkaboo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pyroar",
+      "img": "http://static1.wikia.nocookie.net/__cb20131015025234/es.pokemon/images/thumb/2/2e/Pyroar_XY.png/96px-Pyroar_XY.png",
+      "text": "Pyroar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Raticate",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170119/es.pokemon/images/f/f3/Raticate_NB.png",
+      "text": "Raticate"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Regirock",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180604/es.pokemon/images/7/7d/Regirock_NB.png",
+      "text": "Regirock"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sandile",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919082418/es.pokemon/images/4/46/Sandile_NB.png",
+      "text": "Sandile"
+    },
+    {
+      "url": "http://es.pokemon.wikia.comhttp://static1.wikia.nocookie.net/__cb20131117155026/es.pokemon/images/9/9f/Sawsbuck_NB_formas.gif",
+      "img": "http://static1.wikia.nocookie.net/__cb20131117155026/es.pokemon/images/9/9f/Sawsbuck_NB_formas.gif",
+      "text": "Sawsbuck"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Seedot",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175403/es.pokemon/images/f/fd/Seedot_NB.png",
+      "text": "Seedot"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sentret",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172119/es.pokemon/images/7/7d/Sentret_NB.png",
+      "text": "Sentret"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shedinja",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175538/es.pokemon/images/e/e0/Shedinja_NB.png",
+      "text": "Shedinja"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shiftry",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175412/es.pokemon/images/a/a7/Shiftry_NB.png",
+      "text": "Shiftry"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shroomish",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175502/es.pokemon/images/1/12/Shroomish_NB.png",
+      "text": "Shroomish"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Skiddo",
+      "img": "http://static1.wikia.nocookie.net/__cb20131014143232/es.pokemon/images/thumb/7/7d/Skiddo_XY.png/96px-Skiddo_XY.png",
+      "text": "Skiddo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Skrelp",
+      "img": "http://static4.wikia.nocookie.net/__cb20131015141611/es.pokemon/images/thumb/a/a9/Skrelp_XY.png/96px-Skrelp_XY.png",
+      "text": "Skrelp"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Slaking",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175523/es.pokemon/images/d/d1/Slaking_NB.png",
+      "text": "Slaking"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Slakoth",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175514/es.pokemon/images/3/36/Slakoth_NB.png",
+      "text": "Slakoth"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Spearow",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170125/es.pokemon/images/5/58/Spearow_NB.png",
+      "text": "Spearow"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Spinda",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180053/es.pokemon/images/5/55/Spinda_NB.png",
+      "text": "Spinda"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Stantler",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919173116/es.pokemon/images/b/b5/Stantler_NB.png",
+      "text": "Stantler"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Staraptor",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181222/es.pokemon/images/b/b8/Staraptor_NB.png",
+      "text": "Staraptor"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Staravia",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181220/es.pokemon/images/8/84/Staravia_NB.png",
+      "text": "Staravia"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Starly",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181214/es.pokemon/images/6/6c/Starly_NB.png",
+      "text": "Starly"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Staryu",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171611/es.pokemon/images/0/03/Staryu_NB.png",
+      "text": "Staryu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Stunfisk",
+      "img": "http://static2.wikia.nocookie.net/__cb20101018191734/es.pokemon/images/f/fd/Stunfisk_NB.png",
+      "text": "Stunfisk"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sudowoodo",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172429/es.pokemon/images/d/d9/Sudowoodo_NB.png",
+      "text": "Sudowoodo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swinub",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173008/es.pokemon/images/0/08/Swinub_NB.png",
+      "text": "Swinub"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tauros",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171649/es.pokemon/images/c/c4/Tauros_NB.png",
+      "text": "Tauros"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Teddiursa",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172952/es.pokemon/images/d/dd/Teddiursa_NB.png",
+      "text": "Teddiursa"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Torkoal",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180043/es.pokemon/images/2/2e/Torkoal_NB.png",
+      "text": "Torkoal"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Trapinch",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180058/es.pokemon/images/0/0e/Trapinch_NB.png",
+      "text": "Trapinch"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Trevenant",
+      "img": "http://static1.wikia.nocookie.net/__cb20131020090728/es.pokemon/images/thumb/a/a9/Trevenant_XY.png/96px-Trevenant_XY.png",
+      "text": "Trevenant"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tyrunt",
+      "img": "http://static1.wikia.nocookie.net/__cb20131014145313/es.pokemon/images/thumb/6/65/Tyrunt_XY.png/96px-Tyrunt_XY.png",
+      "text": "Tyrunt"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ursaring",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172955/es.pokemon/images/1/1d/Ursaring_NB.png",
+      "text": "Ursaring"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vullaby",
+      "img": "http://static4.wikia.nocookie.net/__cb20101028172856/es.pokemon/images/a/a1/Vullaby_NB.png",
+      "text": "Vullaby"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vulpix",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170255/es.pokemon/images/a/aa/Vulpix_NB.png",
+      "text": "Vulpix"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Watchog",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919082514/es.pokemon/images/c/c4/Watchog_NB.png",
+      "text": "Watchog"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Weedle",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170047/es.pokemon/images/8/85/Weedle_NB.png",
+      "text": "Weedle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zigzagoon",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175321/es.pokemon/images/b/b7/Zigzagoon_NB.png",
+      "text": "Zigzagoon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Aerodactyl",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171751/es.pokemon/images/6/6c/Aerodactyl_NB.png",
+      "text": "Aerodactyl"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Aipom",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172456/es.pokemon/images/7/77/Aipom_NB.png",
+      "text": "Aipom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ambipom",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181440/es.pokemon/images/a/a9/Ambipom_NB.png",
+      "text": "Ambipom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Arbok",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170141/es.pokemon/images/f/fc/Arbok_NB.png",
+      "text": "Arbok"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cascoon",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175344/es.pokemon/images/9/9f/Cascoon_NB.png",
+      "text": "Cascoon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cloyster",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171021/es.pokemon/images/d/db/Cloyster_NB.png",
+      "text": "Cloyster"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Crobat",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172158/es.pokemon/images/9/91/Crobat_NB.png",
+      "text": "Crobat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Delcatty",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919175616/es.pokemon/images/9/96/Delcatty_NB.png",
+      "text": "Delcatty"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ditto",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171707/es.pokemon/images/f/f5/Ditto_NB.png",
+      "text": "Ditto"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Drapion",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181746/es.pokemon/images/d/dd/Drapion_NB.png",
+      "text": "Drapion"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Drifblim",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181448/es.pokemon/images/7/7f/Drifblim_NB.png",
+      "text": "Drifblim"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Drifloon",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181444/es.pokemon/images/d/d7/Drifloon_NB.png",
+      "text": "Drifloon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ekans",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170135/es.pokemon/images/0/05/Ekans_NB.png",
+      "text": "Ekans"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Espeon",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172531/es.pokemon/images/8/87/Espeon_NB.png",
+      "text": "Espeon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Forretress",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172860/es.pokemon/images/d/d5/Forretress_NB.png",
+      "text": "Forretress"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gastly",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171028/es.pokemon/images/5/54/Gastly_NB.png",
+      "text": "Gastly"
+    },
+    {
+      "url": "http://es.pokemon.wikia.comhttp://static2.wikia.nocookie.net/__cb20080827113220/es.pokemon/images/9/9e/Gastrodon_DP.gif",
+      "img": "http://static2.wikia.nocookie.net/__cb20080827113220/es.pokemon/images/9/9e/Gastrodon_DP.gif",
+      "text": "Gastrodon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Genesect",
+      "img": "http://static1.wikia.nocookie.net/__cb20120503181706/es.pokemon/images/5/5e/Genesect_NB.png",
+      "text": "Genesect"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gengar",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171044/es.pokemon/images/6/6d/Gengar_NB.png",
+      "text": "Gengar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gligar",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172908/es.pokemon/images/3/32/Gligar_NB.png",
+      "text": "Gligar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gliscor",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182112/es.pokemon/images/b/b8/Gliscor_NB.png",
+      "text": "Gliscor"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Golbat",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170316/es.pokemon/images/2/2b/Golbat_NB.png",
+      "text": "Golbat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Goodra",
+      "img": "http://static2.wikia.nocookie.net/__cb20131015141442/es.pokemon/images/thumb/d/d7/Goodra_XY.png/96px-Goodra_XY.png",
+      "text": "Goodra"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Goomy",
+      "img": "http://static2.wikia.nocookie.net/__cb20131011180151/es.pokemon/images/thumb/c/ce/Goomy_XY.png/96px-Goomy_XY.png",
+      "text": "Goomy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gothita",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919081137/es.pokemon/images/4/4c/Gothita_NB.png",
+      "text": "Gothita"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gothitelle",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919081202/es.pokemon/images/9/98/Gothitelle_NB.png",
+      "text": "Gothitelle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gothorita",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919081150/es.pokemon/images/4/48/Gothorita_NB.png",
+      "text": "Gothorita"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Granbull",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172920/es.pokemon/images/c/ce/Granbull_NB.png",
+      "text": "Granbull"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Grimer",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170959/es.pokemon/images/d/dd/Grimer_NB.png",
+      "text": "Grimer"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Grumpig",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180049/es.pokemon/images/7/7b/Grumpig_NB.png",
+      "text": "Grumpig"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Haunter",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171040/es.pokemon/images/8/8a/Haunter_NB.png",
+      "text": "Haunter"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Illumise",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175955/es.pokemon/images/8/81/Illumise_NB.png",
+      "text": "Illumise"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Koffing",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171217/es.pokemon/images/d/d3/Koffing_NB.png",
+      "text": "Koffing"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Liepard",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919075740/es.pokemon/images/2/2b/Liepard_NB.png",
+      "text": "Liepard"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lileep",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180220/es.pokemon/images/5/55/Lileep_NB.png",
+      "text": "Lileep"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mantine",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173035/es.pokemon/images/4/44/Mantine_NB.png",
+      "text": "Mantine"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mewtwo",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171829/es.pokemon/images/6/6a/Mewtwo_NB.png",
+      "text": "Mewtwo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mienshao",
+      "img": "http://static1.wikia.nocookie.net/__cb20101030075405/es.pokemon/images/7/78/Mienshao_NB.png",
+      "text": "Mienshao"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Misdreavus",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172554/es.pokemon/images/f/f4/Misdreavus_NB.png",
+      "text": "Misdreavus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mismagius",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181502/es.pokemon/images/7/7d/Mismagius_NB.png",
+      "text": "Mismagius"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Muk",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171004/es.pokemon/images/c/ce/Muk_NB.png",
+      "text": "Muk"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nidoking",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170240/es.pokemon/images/f/f6/Nidoking_NB.png",
+      "text": "Nidoking"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nidoran_macho",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170233/es.pokemon/images/6/64/Nidoran_macho_NB.png",
+      "text": "Nidoran"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Nidorino",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170237/es.pokemon/images/a/a2/Nidorino_NB.png",
+      "text": "Nidorino"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Noibat",
+      "img": "http://static3.wikia.nocookie.net/__cb20131011140919/es.pokemon/images/thumb/1/1b/Noibat_XY.png/96px-Noibat_XY.png",
+      "text": "Noibat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Noivern",
+      "img": "http://static2.wikia.nocookie.net/__cb20131015032342/es.pokemon/images/thumb/e/e5/Noivern_XY.png/96px-Noivern_XY.png",
+      "text": "Noivern"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Palkia",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182155/es.pokemon/images/8/88/Palkia_NB.png",
+      "text": "Palkia"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Purrloin",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919075705/es.pokemon/images/0/02/Purrloin_NB.png",
+      "text": "Purrloin"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rattata",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170115/es.pokemon/images/8/84/Rattata_NB.png",
+      "text": "Rattata"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sableye",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175620/es.pokemon/images/1/15/Sableye_NB.png",
+      "text": "Sableye"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shellder",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171009/es.pokemon/images/6/69/Shellder_NB.png",
+      "text": "Shellder"
+    },
+    {
+      "url": "http://es.pokemon.wikia.comhttp://static1.wikia.nocookie.net/__cb20080827113058/es.pokemon/images/2/2e/Shellos_DP.gif",
+      "img": "http://static1.wikia.nocookie.net/__cb20080827113058/es.pokemon/images/2/2e/Shellos_DP.gif",
+      "text": "Shellos"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Skorupi",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181714/es.pokemon/images/1/1e/Skorupi_NB.png",
+      "text": "Skorupi"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Skuntank",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181531/es.pokemon/images/6/6c/Skuntank_NB.png",
+      "text": "Skuntank"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sliggoo",
+      "img": "http://static4.wikia.nocookie.net/__cb20131011182256/es.pokemon/images/thumb/2/23/Sliggoo_XY.png/96px-Sliggoo_XY.png",
+      "text": "Sliggoo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Spiritomb",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181610/es.pokemon/images/f/f1/Spiritomb_NB.png",
+      "text": "Spiritomb"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Starmie",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171615/es.pokemon/images/3/30/Starmie_NB.png",
+      "text": "Starmie"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Stunky",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181528/es.pokemon/images/2/25/Stunky_NB.png",
+      "text": "Stunky"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swalot",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180007/es.pokemon/images/f/fd/Swalot_NB.png",
+      "text": "Swalot"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tyrogue",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919173131/es.pokemon/images/1/19/Tyrogue_NB.png",
+      "text": "Tyrogue"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Venomoth",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170359/es.pokemon/images/a/a3/Venomoth_NB.png",
+      "text": "Venomoth"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Venonat",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170355/es.pokemon/images/6/6d/Venonat_NB.png",
+      "text": "Venonat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Weezing",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919171220/es.pokemon/images/2/27/Weezing_NB.png",
+      "text": "Weezing"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zubat",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170311/es.pokemon/images/9/9d/Zubat_NB.png",
+      "text": "Zubat"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Banette",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180310/es.pokemon/images/6/69/Banette_NB.png",
+      "text": "Banette"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Blitzle",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919083103/es.pokemon/images/e/e5/Blitzle_NB.png",
+      "text": "Blitzle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chandelure",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080804/es.pokemon/images/6/6e/Chandelure_NB.png",
+      "text": "Chandelure"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chatot",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181603/es.pokemon/images/5/5c/Chatot_NB.png",
+      "text": "Chatot"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Claydol",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180216/es.pokemon/images/0/0e/Claydol_NB.png",
+      "text": "Claydol"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Darkrai",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182225/es.pokemon/images/5/53/Darkrai_NB.png",
+      "text": "Darkrai"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dusclops",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180318/es.pokemon/images/4/4f/Dusclops_NB.png",
+      "text": "Dusclops"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dusknoir",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182128/es.pokemon/images/2/2c/Dusknoir_NB.png",
+      "text": "Dusknoir"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Duskull",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180315/es.pokemon/images/e/e6/Duskull_NB.png",
+      "text": "Duskull"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Giratina",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182206/es.pokemon/images/2/2c/Giratina_NB.png",
+      "text": "Giratina2"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Honchkrow",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181509/es.pokemon/images/e/e1/Honchkrow_NB.png",
+      "text": "Honchkrow"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Houndoom",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919173047/es.pokemon/images/d/de/Houndoom_NB.png",
+      "text": "Houndoom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Houndour",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173043/es.pokemon/images/a/a8/Houndour_NB.png",
+      "text": "Houndour"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lampent",
+      "img": "http://static2.wikia.nocookie.net/__cb20101018155919/es.pokemon/images/7/7c/Lampent_NB.png",
+      "text": "Lampent"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mawile",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175623/es.pokemon/images/7/7c/Mawile_NB.png",
+      "text": "Mawile"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Munchlax",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181642/es.pokemon/images/6/6f/Munchlax_NB.png",
+      "text": "Munchlax"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Murkrow",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172543/es.pokemon/images/e/e1/Murkrow_NB.png",
+      "text": "Murkrow"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Scatterbug",
+      "img": "http://static4.wikia.nocookie.net/__cb20131014142120/es.pokemon/images/thumb/f/f1/Scatterbug_XY.png/96px-Scatterbug_XY.png",
+      "text": "Scatterbug"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Seviper",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180135/es.pokemon/images/c/c1/Seviper_NB.png",
+      "text": "Seviper"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sigilyph",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919082902/es.pokemon/images/6/6e/Sigilyph_NB.png",
+      "text": "Sigilyph"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shuppet",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180305/es.pokemon/images/9/9e/Shuppet_NB.png",
+      "text": "Shuppet"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sneasel",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172946/es.pokemon/images/a/af/Sneasel_NB.png",
+      "text": "Sneasel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Snorlax",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171756/es.pokemon/images/5/55/Snorlax_NB.png",
+      "text": "Snorlax"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Spewpa",
+      "img": "http://static1.wikia.nocookie.net/__cb20131014142531/es.pokemon/images/thumb/2/23/Spewpa_XY.png/96px-Spewpa_XY.png",
+      "text": "Spewpa"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Spoink",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180045/es.pokemon/images/7/70/Spoink_NB.png",
+      "text": "Spoink"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Umbreon",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172537/es.pokemon/images/c/c4/Umbreon_NB.png",
+      "text": "Umbreon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Unown",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172560/es.pokemon/images/5/5d/Unown_NB.png",
+      "text": "Unown"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vivillon",
+      "img": "http://static4.wikia.nocookie.net/__cb20131014192658/es.pokemon/images/thumb/f/fc/Vivillon_XY.png/96px-Vivillon_XY.png",
+      "text": "Vivillon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Weavile",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181855/es.pokemon/images/4/45/Weavile_NB.png",
+      "text": "Weavile"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Yamask",
+      "img": "http://static2.wikia.nocookie.net/__cb20100929000136/es.pokemon/images/1/10/Yamask_NB.png",
+      "text": "Yamask"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zebstrika",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919083128/es.pokemon/images/2/25/Zebstrika_NB.png",
+      "text": "Zebstrika"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zekrom",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919123950/es.pokemon/images/1/17/Zekrom_NB.png",
+      "text": "Zekrom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Accelgor",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919075302/es.pokemon/images/3/3a/Accelgor_NB.png",
+      "text": "Accelgor"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ariados",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172153/es.pokemon/images/d/d4/Ariados_NB.png",
+      "text": "Ariados"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bisharp",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919081935/es.pokemon/images/d/d6/Bisharp_NB.png",
+      "text": "Bisharp"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Blaziken",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175256/es.pokemon/images/7/75/Blaziken_NB.png",
+      "text": "Blaziken"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Braixen",
+      "img": "http://static1.wikia.nocookie.net/__cb20131014185444/es.pokemon/images/thumb/c/c6/Braixen_XY.png/96px-Braixen_XY.png",
+      "text": "Braixen"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Braviary",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919083013/es.pokemon/images/9/94/Braviary_NB.png",
+      "text": "Braviary"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Camerupt",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180034/es.pokemon/images/1/16/Camerupt_NB.png",
+      "text": "Camerupt"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Carvanha",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180013/es.pokemon/images/4/43/Carvanha_NB.png",
+      "text": "Carvanha"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Charizard",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170011/es.pokemon/images/e/ed/Charizard_NB.png",
+      "text": "Charizard"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Charmander",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170003/es.pokemon/images/c/ca/Charmander_NB.png",
+      "text": "Charmander"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Charmeleon",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170007/es.pokemon/images/0/0d/Charmeleon_NB.png",
+      "text": "Charmeleon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Combusken",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175252/es.pokemon/images/2/2f/Combusken_NB.png",
+      "text": "Combusken"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Corphish",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180203/es.pokemon/images/b/b2/Corphish_NB.png",
+      "text": "Corphish"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Crawdaunt",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180207/es.pokemon/images/9/96/Crawdaunt_NB.png",
+      "text": "Crawdaunt"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Crustle",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081560/es.pokemon/images/c/c2/Crustle_NB.png",
+      "text": "Crustle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Darmanitan",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080110/es.pokemon/images/2/25/Darmanitan_NB.png",
+      "text": "Darmanitan"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Darumaka",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919080055/es.pokemon/images/c/cd/Darumaka_NB.png",
+      "text": "Darumaka"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Delibird",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173031/es.pokemon/images/0/00/Delibird_NB.png",
+      "text": "Delibird"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Delphox",
+      "img": "http://static3.wikia.nocookie.net/__cb20131027212715/es.pokemon/images/thumb/5/57/Delphox_XY.png/96px-Delphox_XY.png",
+      "text": "Delphox"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Deoxys",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180637/es.pokemon/images/c/c4/Deoxys_NB.png",
+      "text": "Deoxys"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Druddigon",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919075845/es.pokemon/images/1/13/Druddigon_NB.png",
+      "text": "Druddigon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dwebble",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081546/es.pokemon/images/1/15/Dwebble_NB.png",
+      "text": "Dwebble"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Electrode",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171116/es.pokemon/images/4/41/Electrode_NB.png",
+      "text": "Electrode"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Emboar",
+      "img": "http://static2.wikia.nocookie.net/__cb20101111214109/es.pokemon/images/6/62/Emboar_NB.png",
+      "text": "Emboar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Fennekin",
+      "img": "http://static2.wikia.nocookie.net/__cb20131024231019/es.pokemon/images/thumb/0/0e/Fennekin_XY.png/96px-Fennekin_XY.png",
+      "text": "Fennekin"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Flareon",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171727/es.pokemon/images/8/8c/Flareon_NB.png",
+      "text": "Flareon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Fletchinder",
+      "img": "http://static1.wikia.nocookie.net/__cb20131015141160/es.pokemon/images/thumb/6/6e/Fletchinder_XY.png/96px-Fletchinder_XY.png",
+      "text": "Fletchinder"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Fletchling",
+      "img": "http://static3.wikia.nocookie.net/__cb20131014142006/es.pokemon/images/thumb/3/32/Fletchling_XY.png/96px-Fletchling_XY.png",
+      "text": "Fletchling"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Goldeen",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171333/es.pokemon/images/8/84/Goldeen_NB.png",
+      "text": "Goldeen"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Groudon",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180626/es.pokemon/images/4/40/Groudon_NB.png",
+      "text": "Groudon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Heatmor",
+      "img": "http://static4.wikia.nocookie.net/__cb20101103122555/es.pokemon/images/8/8e/Heatmor_NB.png",
+      "text": "Heatmor"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ho-Oh",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173244/es.pokemon/images/5/5a/Ho-Oh_NB.png",
+      "text": "Ho-Oh"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Jynx",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919171627/es.pokemon/images/e/e3/Jynx_NB.png",
+      "text": "Jynx"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kingler",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919171108/es.pokemon/images/7/7f/Kingler_NB.png",
+      "text": "Kingler"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Krabby",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171060/es.pokemon/images/1/1f/Krabby_NB.png",
+      "text": "Krabby"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kricketot",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181240/es.pokemon/images/1/18/Kricketot_NB.png",
+      "text": "Kricketot"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kricketune",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181244/es.pokemon/images/a/ab/Kricketune_NB.png",
+      "text": "Kricketune"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Krookodile",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919082444/es.pokemon/images/a/a0/Krookodile_NB.png",
+      "text": "Krookodile"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Latias",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180616/es.pokemon/images/4/4e/Latias_NB.png",
+      "text": "Latias"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ledian",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172145/es.pokemon/images/7/79/Ledian_NB.png",
+      "text": "Ledian"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ledyba",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172139/es.pokemon/images/b/b1/Ledyba_NB.png",
+      "text": "Ledyba"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Magby",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173149/es.pokemon/images/f/f8/Magby_NB.png",
+      "text": "Magby"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Magcargo",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919173004/es.pokemon/images/b/b4/Magcargo_NB.png",
+      "text": "Magcargo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Magikarp",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171653/es.pokemon/images/6/60/Magikarp_NB.png",
+      "text": "Magikarp"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Magmar",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171641/es.pokemon/images/5/59/Magmar_NB.png",
+      "text": "Magmar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Magmortar",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919182047/es.pokemon/images/9/92/Magmortar_NB.png",
+      "text": "Magmortar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Medicham",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175651/es.pokemon/images/a/a0/Medicham_NB.png",
+      "text": "Medicham"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Octillery",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173026/es.pokemon/images/5/56/Octillery_NB.png",
+      "text": "Octillery"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pansear",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919075424/es.pokemon/images/5/53/Pansear_NB.png",
+      "text": "Pansear"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Paras",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170335/es.pokemon/images/1/1b/Paras_NB.png",
+      "text": "Paras"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Parasect",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170349/es.pokemon/images/f/f1/Parasect_NB.png",
+      "text": "Parasect"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pawniard",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919081920/es.pokemon/images/9/9a/Pawniard_NB.png",
+      "text": "Pawniard"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pignite",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919075106/es.pokemon/images/5/5b/Pignite_NB.png",
+      "text": "Pignite"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Porygon2",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919173112/es.pokemon/images/d/dd/Porygon2_NB.png",
+      "text": "Porygon2"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Porygon-Z",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919182116/es.pokemon/images/8/8e/Porygon-Z_NB.png",
+      "text": "Porygon-Z"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rotom",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919182136/es.pokemon/images/0/03/Rotom_NB.png",
+      "text": "Rotom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Scizor",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172930/es.pokemon/images/a/aa/Scizor_NB.png",
+      "text": "Scizor"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Scolipede",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919080620/es.pokemon/images/4/47/Scolipede_NB.png",
+      "text": "Scolipede"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Scrafty",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919083217/es.pokemon/images/b/b5/Scrafty_NB.png",
+      "text": "Scrafty"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Seaking",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171607/es.pokemon/images/c/c5/Seaking_NB.png",
+      "text": "Seaking"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shelmet",
+      "img": "http://static2.wikia.nocookie.net/__cb20101004170349/es.pokemon/images/9/9d/Shelmet_NB.png",
+      "text": "Shelmet"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Simisear",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919075438/es.pokemon/images/5/5a/Simisear_NB.png",
+      "text": "Simisear"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Slugma",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172960/es.pokemon/images/7/75/Slugma_NB.png",
+      "text": "Slugma"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Solrock",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180149/es.pokemon/images/c/cf/Solrock_NB.png",
+      "text": "Solrock"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Talonflame",
+      "img": "http://static2.wikia.nocookie.net/__cb20131023230641/es.pokemon/images/thumb/3/36/Talonflame_XY.png/96px-Talonflame_XY.png",
+      "text": "Talonflame"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tepig",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919075042/es.pokemon/images/c/c1/Tepig_NB.png",
+      "text": "Tepig"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Throh",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919082723/es.pokemon/images/a/a9/Throh_NB.png",
+      "text": "Throh"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Torchic",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175248/es.pokemon/images/3/3c/Torchic_NB.png",
+      "text": "Torchic"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tyrantrum",
+      "img": "http://static2.wikia.nocookie.net/__cb20131011135427/es.pokemon/images/thumb/4/44/Tyrantrum_XY.png/96px-Tyrantrum_XY.png",
+      "text": "Tyrantrum"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Venipede",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080551/es.pokemon/images/4/4c/Venipede_NB.png",
+      "text": "Venipede"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vileplume",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170331/es.pokemon/images/a/a0/Vileplume_NB.png",
+      "text": "Vileplume"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Voltorb",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171112/es.pokemon/images/f/fc/Voltorb_NB.png",
+      "text": "Voltorb"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wurmple",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175330/es.pokemon/images/d/dd/Wurmple_NB.png",
+      "text": "Wurmple"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Yanma",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172517/es.pokemon/images/6/6f/Yanma_NB.png",
+      "text": "Yanma"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Yveltal",
+      "img": "http://static4.wikia.nocookie.net/__cb20131123013917/es.pokemon/images/thumb/6/6f/Yveltal_XY.png/96px-Yveltal_XY.png",
+      "text": "Yveltal"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Alomomola",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919082330/es.pokemon/images/e/e9/Alomomola_NB.png",
+      "text": "Alomomola"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Aromatisse",
+      "img": "http://static1.wikia.nocookie.net/__cb20131014193209/es.pokemon/images/thumb/f/fe/Aromatisse_XY.png/96px-Aromatisse_XY.png",
+      "text": "Aromatisse"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Audino",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919123544/es.pokemon/images/b/bb/Audino_NB.png",
+      "text": "Audino"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Blissey",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173158/es.pokemon/images/1/13/Blissey_NB.png",
+      "text": "Blissey"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chansey",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171303/es.pokemon/images/2/2b/Chansey_NB.png",
+      "text": "Chansey"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cherrim",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181425/es.pokemon/images/3/3a/Cherrim_NB.png",
+      "text": "Cherrim2"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cherubi",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181418/es.pokemon/images/3/39/Cherubi_NB.png",
+      "text": "Cherubi"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Clefable",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170249/es.pokemon/images/f/f0/Clefable_NB.png",
+      "text": "Clefable"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Clefairy",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170245/es.pokemon/images/d/da/Clefairy_NB.png",
+      "text": "Clefairy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cleffa",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172217/es.pokemon/images/9/9c/Cleffa_NB.png",
+      "text": "Cleffa"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Corsola",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919173018/es.pokemon/images/2/28/Corsola_NB.png",
+      "text": "Corsola"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Exeggcute",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171121/es.pokemon/images/b/bb/Exeggcute_NB.png",
+      "text": "Exeggcute"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Flaaffy",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172403/es.pokemon/images/e/e4/Flaaffy_NB.png",
+      "text": "Flaaffy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gorebyss",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180529/es.pokemon/images/6/67/Gorebyss_NB.png",
+      "text": "Gorebyss"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Happiny",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181559/es.pokemon/images/e/e4/Happiny_NB.png",
+      "text": "Happiny"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hoppip",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919172437/es.pokemon/images/f/f1/Hoppip_NB.png",
+      "text": "Hoppip"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Igglybuff",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172221/es.pokemon/images/8/80/Igglybuff_NB.png",
+      "text": "Igglybuff"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Jigglypuff",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170303/es.pokemon/images/5/54/Jigglypuff_NB.png",
+      "text": "Jigglypuff"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lickilicky",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919182029/es.pokemon/images/f/f6/Lickilicky_NB.png",
+      "text": "Lickilicky"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lickitung",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919171211/es.pokemon/images/a/ac/Lickitung_NB.png",
+      "text": "Lickitung"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Luvdisc",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919180536/es.pokemon/images/b/bd/Luvdisc_NB.png",
+      "text": "Luvdisc"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mesprit",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919182142/es.pokemon/images/8/8c/Mesprit_NB.png",
+      "text": "Mesprit"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mew",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171832/es.pokemon/images/b/bb/Mew_NB.png",
+      "text": "Mew"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Milotic",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180243/es.pokemon/images/5/50/Milotic_NB.png",
+      "text": "Milotic"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Miltank",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173154/es.pokemon/images/0/0e/Miltank_NB.png",
+      "text": "Miltank"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mime_Jr.",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181552/es.pokemon/images/9/9b/Mime_Jr._NB.png",
+      "text": "Mime Jr."
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Mr._Mime",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919171618/es.pokemon/images/2/23/Mr._Mime_NB.png",
+      "text": "Mr. Mime"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Munna",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919081303/es.pokemon/images/7/79/Munna_NB.png",
+      "text": "Munna"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Musharna",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919081316/es.pokemon/images/2/2c/Musharna_NB.png",
+      "text": "Musharna"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Porygon",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919171732/es.pokemon/images/9/94/Porygon_NB.png",
+      "text": "Porygon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Skitty",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175610/es.pokemon/images/a/aa/Skitty_NB.png",
+      "text": "Skitty"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Slowbro",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170921/es.pokemon/images/6/67/Slowbro_NB.png",
+      "text": "Slowbro"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Slowking",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172546/es.pokemon/images/7/73/Slowking_NB.png",
+      "text": "Slowking"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Slowpoke",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919170916/es.pokemon/images/c/c9/Slowpoke_NB.png",
+      "text": "Slowpoke"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Smoochum",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173139/es.pokemon/images/a/af/Smoochum_NB.png",
+      "text": "Smoochum"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Snubbull",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172917/es.pokemon/images/3/3c/Snubbull_NB.png",
+      "text": "Snubbull"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Spritzee",
+      "img": "http://static2.wikia.nocookie.net/__cb20131015024707/es.pokemon/images/thumb/d/d0/Spritzee_XY.png/96px-Spritzee_XY.png",
+      "text": "Spritzee"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sylveon",
+      "img": "http://static1.wikia.nocookie.net/__cb20131013221518/es.pokemon/images/thumb/f/f3/Sylveon_XY.png/96px-Sylveon_XY.png",
+      "text": "Sylveon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Whismur",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175542/es.pokemon/images/9/92/Whismur_NB.png",
+      "text": "Whismur"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Wigglytuff",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170307/es.pokemon/images/6/60/Wigglytuff_NB.png",
+      "text": "Wigglytuff"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Axew",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919081820/es.pokemon/images/7/77/Axew_NB.png",
+      "text": "Axew"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Basculin",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919075452/es.pokemon/images/2/2e/Basculin_NB.png",
+      "text": "Basculin"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bayleef",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172041/es.pokemon/images/e/e4/Bayleef_NB.png",
+      "text": "Bayleef"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bellossom",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172413/es.pokemon/images/6/6b/Bellossom_NB.png",
+      "text": "Bellossom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bellsprout",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170833/es.pokemon/images/1/10/Bellsprout_NB.png",
+      "text": "Bellsprout"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Breloom",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175506/es.pokemon/images/e/ef/Breloom_NB.png",
+      "text": "Breloom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bronzong",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919181544/es.pokemon/images/9/9e/Bronzong_NB.png",
+      "text": "Bronzong"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bronzor",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181538/es.pokemon/images/d/d8/Bronzor_NB.png",
+      "text": "Bronzor"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Budew",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181304/es.pokemon/images/6/64/Budew_NB.png",
+      "text": "Budew"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Bulbasaur",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919165949/es.pokemon/images/7/79/Bulbasaur_NB.png",
+      "text": "Bulbasaur"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cacnea",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180110/es.pokemon/images/0/01/Cacnea_NB.png",
+      "text": "Cacnea"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cacturne",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180116/es.pokemon/images/5/50/Cacturne_NB.png",
+      "text": "Cacturne"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Carnivine",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181804/es.pokemon/images/e/e4/Carnivine_NB.png",
+      "text": "Carnivine"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Caterpie",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919170032/es.pokemon/images/9/9b/Caterpie_NB.png",
+      "text": "Caterpie"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Celebi",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919173249/es.pokemon/images/8/88/Celebi_NB.png",
+      "text": "Celebi"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chesnaught",
+      "img": "http://static2.wikia.nocookie.net/__cb20131103181248/es.pokemon/images/thumb/b/bd/Chesnaught_XY.png/96px-Chesnaught_XY.png",
+      "text": "Chesnaught"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chespin",
+      "img": "http://static3.wikia.nocookie.net/__cb20131027030843/es.pokemon/images/thumb/f/f5/Chespin_XY.png/96px-Chespin_XY.png",
+      "text": "Chespin"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Chikorita",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919172029/es.pokemon/images/7/78/Chikorita_NB.png",
+      "text": "Chikorita"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cottonee",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080510/es.pokemon/images/9/91/Cottonee_NB.png",
+      "text": "Cottonee"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Cradily",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180226/es.pokemon/images/d/d8/Cradily_NB.png",
+      "text": "Cradily"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Duosion",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919075859/es.pokemon/images/a/a8/Duosion_NB.png",
+      "text": "Duosion"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Dustox",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175347/es.pokemon/images/9/9e/Dustox_NB.png",
+      "text": "Dustox"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Electrike",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175922/es.pokemon/images/6/6a/Electrike_NB.png",
+      "text": "Electrike"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Flygon",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180106/es.pokemon/images/b/b7/Flygon_NB.png",
+      "text": "Flygon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Fraxure",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919081836/es.pokemon/images/f/ff/Fraxure_NB.png",
+      "text": "Fraxure"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Garbodor",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919080149/es.pokemon/images/a/a5/Garbodor_NB.png",
+      "text": "Garbodor"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Golett",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081110/es.pokemon/images/6/6e/Golett_NB.png",
+      "text": "Golett"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Golurk",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081123/es.pokemon/images/b/b3/Golurk_NB.png",
+      "text": "Golurk"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Grotle",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919181135/es.pokemon/images/c/c8/Grotle_NB.png",
+      "text": "Grotle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Grovyle",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175239/es.pokemon/images/0/09/Grovyle_NB.png",
+      "text": "Grovyle"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Gulpin",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180003/es.pokemon/images/2/2c/Gulpin_NB.png",
+      "text": "Gulpin"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Hawlucha",
+      "img": "http://static2.wikia.nocookie.net/__cb20131011184624/es.pokemon/images/thumb/d/d5/Hawlucha_XY.png/96px-Hawlucha_XY.png",
+      "text": "Hawlucha"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ivysaur",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919165953/es.pokemon/images/a/a3/Ivysaur_NB.png",
+      "text": "Ivysaur"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Kecleon",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180259/es.pokemon/images/5/5f/Kecleon_NB.png",
+      "text": "Kecleon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Larvitar",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173225/es.pokemon/images/5/5b/Larvitar_NB.png",
+      "text": "Larvitar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Leafeon",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919182060/es.pokemon/images/9/9d/Leafeon_NB.png",
+      "text": "Leafeon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lilligant",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919075827/es.pokemon/images/b/b2/Lilligant_NB.png",
+      "text": "Lilligant"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lombre",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175355/es.pokemon/images/8/8d/Lombre_NB.png",
+      "text": "Lombre"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Lotad",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919175352/es.pokemon/images/b/bb/Lotad_NB.png",
+      "text": "Lotad"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Ludicolo",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919175359/es.pokemon/images/d/dc/Ludicolo_NB.png",
+      "text": "Ludicolo"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Maractus",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919082344/es.pokemon/images/f/f5/Maractus_NB.png",
+      "text": "Maractus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Meganium",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172045/es.pokemon/images/c/ca/Meganium_NB.png",
+      "text": "Meganium"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Metapod",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919170037/es.pokemon/images/9/9c/Metapod_NB.png",
+      "text": "Metapod"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Natu",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172238/es.pokemon/images/0/09/Natu_NB.png",
+      "text": "Natu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Pansage",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919083027/es.pokemon/images/5/5b/Pansage_NB.png",
+      "text": "Pansage"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Petilil",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919075811/es.pokemon/images/4/42/Petilil_NB.png",
+      "text": "Petilil"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Politoed",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919172433/es.pokemon/images/7/72/Politoed_NB.png",
+      "text": "Politoed"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Quilladin",
+      "img": "http://static2.wikia.nocookie.net/__cb20131014141528/es.pokemon/images/thumb/f/f3/Quilladin_XY.png/96px-Quilladin_XY.png",
+      "text": "Quilladin"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Rayquaza",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919180629/es.pokemon/images/4/45/Rayquaza_NB.png",
+      "text": "Rayquaza"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Reuniclus",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919075929/es.pokemon/images/7/78/Reuniclus_NB.png",
+      "text": "Reuniclus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Roselia",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175960/es.pokemon/images/c/c4/Roselia_NB.png",
+      "text": "Roselia"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Roserade",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919181307/es.pokemon/images/c/c5/Roserade_NB.png",
+      "text": "Roserade"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Sceptile",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919175243/es.pokemon/images/a/ab/Sceptile_NB.png",
+      "text": "Sceptile"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Scyther",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919171623/es.pokemon/images/c/ce/Scyther_NB.png",
+      "text": "Scyther"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Serperior",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919042152/es.pokemon/images/8/8a/Serperior_NB.png",
+      "text": "Serperior"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Servine",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919042339/es.pokemon/images/1/15/Servine_NB.png",
+      "text": "Servine"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Shaymin",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919182230/es.pokemon/images/1/15/Shaymin_NB.png",
+      "text": "Shaymin2"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Simisage",
+      "img": "http://static4.wikia.nocookie.net/__cb20100919083038/es.pokemon/images/7/77/Simisage_NB.png",
+      "text": "Simisage"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Skiploom",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172444/es.pokemon/images/a/a7/Skiploom_NB.png",
+      "text": "Skiploom"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Snivy",
+      "img": "http://static2.wikia.nocookie.net/__cb20101202202355/es.pokemon/images/a/a2/Snivy_NB.png",
+      "text": "Snivy"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Solosis",
+      "img": "http://static2.wikia.nocookie.net/__cb20101004170323/es.pokemon/images/2/2c/Solosis_NB.png",
+      "text": "Solosis"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Spinarak",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172148/es.pokemon/images/4/44/Spinarak_NB.png",
+      "text": "Spinarak"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Swadloon",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919081441/es.pokemon/images/7/7b/Swadloon_NB.png",
+      "text": "Swadloon"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tornadus",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919191938/es.pokemon/images/b/ba/Tornadus_NB.png",
+      "text": "Tornadus"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Torterra",
+      "img": "http://static4.wikia.nocookie.net/__cb20101031183461/es.pokemon/images/6/69/Torterra_NB.png",
+      "text": "Torterra"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Treecko",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919175235/es.pokemon/images/5/50/Treecko_NB.png",
+      "text": "Treecko"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tropius",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919180322/es.pokemon/images/4/4a/Tropius_NB.png",
+      "text": "Tropius"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Trubbish",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080137/es.pokemon/images/4/47/Trubbish_NB.png",
+      "text": "Trubbish"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Turtwig",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919181131/es.pokemon/images/f/f8/Turtwig_NB.png",
+      "text": "Turtwig"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Tyranitar",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919173236/es.pokemon/images/f/f0/Tyranitar_NB.png",
+      "text": "Tyranitar"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Venusaur",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919165959/es.pokemon/images/d/d6/Venusaur_NB.png",
+      "text": "Venusaur"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Vibrava",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919180103/es.pokemon/images/d/d9/Vibrava_NB.png",
+      "text": "Vibrava"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Victreebel",
+      "img": "http://static2.wikia.nocookie.net/__cb20100919170841/es.pokemon/images/4/4e/Victreebel_NB.png",
+      "text": "Victreebel"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Virizion",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919075529/es.pokemon/images/9/9b/Virizion_NB.png",
+      "text": "Virizion"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Weepinbell",
+      "img": "http://static3.wikia.nocookie.net/__cb20111020181358/es.pokemon/images/d/d7/Weepinbell_NB.png",
+      "text": "Weepinbell"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Whimsicott",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919080525/es.pokemon/images/f/ff/Whimsicott_NB.png",
+      "text": "Whimsicott"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Xatu",
+      "img": "http://static1.wikia.nocookie.net/__cb20100919172243/es.pokemon/images/9/93/Xatu_NB.png",
+      "text": "Xatu"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Yanmega",
+      "img": "http://static3.wikia.nocookie.net/__cb20100919182056/es.pokemon/images/e/e8/Yanmega_NB.png",
+      "text": "Yanmega"
+    },
+    {
+      "url": "http://es.pokemon.wikia.com/wiki/Zygarde",
+      "img": "http://static2.wikia.nocookie.net/__cb20131012170445/es.pokemon/images/thumb/d/d3/Zygarde_XY.png/96px-Zygarde_XY.png",
+      "text": "Zygarde"
+    }
+  ]
+}
